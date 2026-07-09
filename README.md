@@ -20,9 +20,9 @@ A modern web browser (Chrome, Firefox, Safari)<br>
 Optional: A local server environment like XAMPP or MAMP if you want to test the PHP backend functionality.<br><br>
 Installation<br>
 Clone the repo<br>
-```bash<br><br>
+bash<br><br>
    git clone https://github.com/karishma24-itsme/Tour-Project.git
-   ```<br><br>
+   <br><br>
 Open `index.html` in your browser to view the frontend.<br>
 If testing PHP, move the project folder to your local server's `htdocs` (for XAMPP) or `www` directory, and navigate to `localhost/Tour-Project`.<br>
 ---<br><br>
