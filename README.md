@@ -28,13 +28,13 @@ If testing PHP, move the project folder to your local server's `htdocs` (for XAM
 ---<br><br>
 📸 Screenshots<br><br>
 Adventure Section	s<br>
-<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true" alt="Adventure"><br>,br>
+<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true" alt="Adventure"><br><br>
 Tour Package<br>
 <img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/package1.PNG?raw=true" alt="Packages"><br><br>
 
 Contact Form	<br>
 <img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/contact.PNG?raw=true" alt="Contact"><br><br>	
-Database View
+Database View<br>
 <img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/Database_contact.png"><br><br>
 Thankyou <br>
 <img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/Thankyou.png"><br><br>
