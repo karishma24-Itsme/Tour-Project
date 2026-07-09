@@ -27,11 +27,15 @@ Open `index.html` in your browser to view the frontend.<br>
 If testing PHP, move the project folder to your local server's `htdocs` (for XAMPP) or `www` directory, and navigate to `localhost/Tour-Project`.<br>
 ---<br><br>
 📸 Screenshots<br><br>
-Adventure Section	Tour Packages<br>
-<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true" alt="Adventure"><br>	<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/package1.PNG?raw=true" alt="Packages"><br><br>
+Adventure Section	s<br>
+<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/adventure.PNG?raw=true" alt="Adventure"><br>,br>
+Tour Package<br>
+<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/package1.PNG?raw=true" alt="Packages"><br><br>
 
-Contact Form	Database View<br>
-<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/contact.PNG?raw=true" alt="Contact"><br><br>	<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/Database_contact.png"><br><br>
+Contact Form	<br>
+<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/contact.PNG?raw=true" alt="Contact"><br><br>	
+Database View
+<img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/Database_contact.png"><br><br>
 Thankyou <br>
 <img src="https://github.com/karishma24-itsme/Tour-Project/blob/main/screenshot/Thankyou.png"><br><br>
 ---<br><br>
